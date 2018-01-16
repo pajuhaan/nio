@@ -1,7 +1,7 @@
 {
   "modules": [
     {
-      "name": "Module.Decor.Backpanel.Annotation",
+       "name": "Module.Decor.Backpanel.Annotation",
       "R": "NON",
       "UID": 14,
       "vr": 1.0,
