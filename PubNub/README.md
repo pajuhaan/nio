@@ -11,7 +11,7 @@ https://niomatic.com
 Download nio SDK from google play:
 https://play.google.com/store/apps/details?id=nio.sdk
 
-![alt text](https://raw.githubusercontent.com/pajuhaan/nio/master/PubNub/schematic/pubnub.jpg)
+![alt text](https://raw.githubusercontent.com/pajuhaan/nio/master/PubNub/schematic/pubnub.png)
 
 
 
