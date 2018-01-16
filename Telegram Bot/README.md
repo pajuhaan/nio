@@ -1,6 +1,6 @@
 # nio
 Nio Telegram Bot
-![alt text](https://raw.githubusercontent.com/pajuhaan/nio/master/Telegram%20Bot/schematic/telegrambot.png)
+![alt text](https://raw.githubusercontent.com/pajuhaan/nio/master/Telegram%20Bot/schematic/telegrambot.jpg)
 
 
 
